@@ -1,0 +1,6 @@
+{
+  "name": "quest-log",
+  "version": "0.20.0",
+  "description": "A live, game-style quest log for /goal runs and Claude plans: goals sized and paid in XP, a d20 that rolls each goal check, a 5e Ranger who levels and fights each quest's guardian, and a plain-English log of what was done. Watches only; costs no tokens; resets each chat.",
+  "types": "./types/index.d.ts"
+}

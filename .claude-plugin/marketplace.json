@@ -1,0 +1,1 @@
+{ "name": "quest-mods", "owner": { "name": "alex" }, "plugins": [ { "name": "quest-log", "source": "./quest-log" } ] }
